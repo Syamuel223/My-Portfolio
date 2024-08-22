@@ -1,0 +1,28 @@
+<script>
+    function displaySkills(skills) {
+      const skillsContainer = document.getElementById('skillsContainer');
+  
+      skills.forEach(skill => {
+        // Create a div for each skill
+        const skillDiv = document.createElement('div');
+        skillDiv.className = 'skill';
+  
+        // Create an img element
+        const img = document.createElement('img');
+        img.src = skill.image;
+        img.alt = skill.name;
+  
+        // Create a span for the skill name
+        const span = document.createElement('span');
+        span.textContent = skill.name;
+  
+        // Append the image and name to the skill div
+        skillDiv.appendChild(img);
+        skillDiv.appendChild(span);
+  
+        // Append the skill div to the container
+        skillsContainer.appendChild(skillDiv);
+      });
+    }
+  </script>
+  

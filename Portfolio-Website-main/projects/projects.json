@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Online Payment Hub PHP",
+    "desc": "Online Payment Hub is a web application developed using PHP that provides a centralized platform for managing online payments.",
+    "image": "oph",
+    "category": "PHP",
+    "links": {
+      "view": "https://www.linkedin.com/in/syamuelrajbgcs/",
+      "code": "https://github.com/Syamuel223/online-payment-hub-php"
+    }
+  },
+  {
+    "name": "Weather-App",
+    "desc": "WeatherApp utilizes HTML, CSS, and JavaScript to fetch weather data from a third-party API and display it to the user in a user-friendly interface.",
+    "image": "webapp",
+    "category": "Basic Web",
+    "links": {
+      "view": "https://www.linkedin.com/in/syamuelrajbgcs/",
+      "code": "https://github.com/Syamuel223/Weather-app"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "Portfolio consisting of skills,projects and experience build using HTML,CSS,JavaScript.",
+    "image": "port",
+    "category": "portfolio",
+    "links": {
+      "view": "https://www.linkedin.com/in/syamuelrajbgcs/",
+      "code": "https://github.com/Syamuel223/Weather-app"
+    }
+  }
+  
+]
