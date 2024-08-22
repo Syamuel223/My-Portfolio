@@ -5,12 +5,19 @@
 
 ## Table of Contents
 [Introduction](https://github.com/Syamuel223/My-Portfolio/commit/6f2c59edd681ca8c374d9b8f904a2762d884e103#introduction)
+
 [Features](https://github.com/Syamuel223/My-Portfolio/commit/6f2c59edd681ca8c374d9b8f904a2762d884e103#features)
+
 [Technologies Used](https://github.com/Syamuel223/My-Portfolio/commit/6f2c59edd681ca8c374d9b8f904a2762d884e103#technologies-used)
+
 [Installation](https://github.com/Syamuel223/My-Portfolio/commit/6f2c59edd681ca8c374d9b8f904a2762d884e103#installation)
+
 [Usage](https://github.com/Syamuel223/My-Portfolio/commit/6f2c59edd681ca8c374d9b8f904a2762d884e103#usage)
+
 [Contributing](https://github.com/Syamuel223/My-Portfolio/commit/6f2c59edd681ca8c374d9b8f904a2762d884e103#contributing)
+
 [License](https://github.com/Syamuel223/My-Portfolio/commit/6f2c59edd681ca8c374d9b8f904a2762d884e103#license)
+
 [Contact](https://github.com/Syamuel223/My-Portfolio/commit/6f2c59edd681ca8c374d9b8f904a2762d884e103#contact)
 
 ## Introduction
